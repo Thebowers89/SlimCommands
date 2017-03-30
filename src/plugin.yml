@@ -1,0 +1,13 @@
+name: SlimCommands
+version: 0
+main: SlimCommands.MainClass
+commands:
+  addcommand:
+    usage:
+    description:
+  delcommand:
+    usage:
+    description:
+  listcommands:
+    usage:
+    description:
